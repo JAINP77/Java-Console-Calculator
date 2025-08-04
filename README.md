@@ -7,10 +7,10 @@ The program continues to run until the user decides to exit.
 What I Did
 
 ~ Created a Java program with four static methods for math operations.
-~ Used `Scanner` to take user input.
+~ Used "Scanner" to take user input.
 ~ Included a loop to repeat operations until the user exits.
 ~ Handled division-by-zero error.
-~ Used a `switch-case` to select operations.
+~ Used a "switch-case" to select operations.
 ~ Organized everything into a clean, beginner-friendly structure.
 
 
@@ -26,3 +26,4 @@ How to Run
 
 1. Open terminal or use any Java IDE.
 2. Compile:
+
